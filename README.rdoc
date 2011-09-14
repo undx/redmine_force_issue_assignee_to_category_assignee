@@ -1,0 +1,6 @@
+= Redmine Force issue's assignee to category's assignee Plugin
+
+This plugin overrides issue's assignee to category's assignee if declared.
+
+If category has no assignee and issue is assigned, assignee remains.
+
